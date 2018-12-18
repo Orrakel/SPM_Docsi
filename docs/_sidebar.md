@@ -9,7 +9,6 @@
   - [Scorecards und Reports](scorecards.md)
   - [Requirements Engineering](requirement.md)
   - [Compliance in und von IT-Projekten](compliance.md)
-  - [Praktiken erfolgreicher Projekte](praktiken.md)
 
 - Prä-Planung
 
